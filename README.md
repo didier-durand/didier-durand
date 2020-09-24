@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-My current personal projects (pinned below) are about cloud services: see [GCP](https://github.com/didier-durand/gcp-workflows-on-github) & [AWS](https://github.com/didier-durand/aws-workflows-on-github) worflows projects. Also keen on DevOps + Kubernetes as the strategic IT architecture to gain agility and reduce time-to-market in order to better compete in a software-driven world: check out [Microservices on K8s](https://github.com/didier-durand/microservices-on-cloud-kubernetes) and [Knative on AWS + GCP](https://github.com/didier-durand/knative-on-cloud-kubernetes). I also do my best to contribute to OSS projects: see "contributions" below.
-👯 I also do my best to contribute to OSS projects: see "contributions" below.
-📫 You can reach me via [Twitter](https://twitter.com/didierdurand) or Github messaging.
+- 🔭 My current personal projects (pinned below) are about cloud services: see [GCP](https://github.com/didier-durand/gcp-workflows-on-github) & [AWS](https://github.com/didier-durand/aws-workflows-on-github) worflows projects. Also keen on DevOps + Kubernetes as the strategic IT architecture to gain agility and reduce time-to-market in order to better compete in a software-driven world: check out [Microservices on K8s](https://github.com/didier-durand/microservices-on-cloud-kubernetes) and [Knative on AWS + GCP](https://github.com/didier-durand/knative-on-cloud-kubernetes). 
+
+-👯 I also do my best to contribute to OSS projects: see "contributions" below.
+
+- 📫 You can reach me via [Twitter](https://twitter.com/didierdurand) or Github messaging.
 
 <!--
 **didier-durand/didier-durand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
