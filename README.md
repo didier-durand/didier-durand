@@ -2,7 +2,7 @@
 
 - 🔭 I work at [Amazon Web Services (AWS - CH)](https://www.linkedin.com/in/ddurand/) in [AWS Mainframe Modernization service](https://aws.amazon.com/mainframe-modernization/) team, contributing to the design and development of various features and integrations.
 
-- 🔭 My current personal projects (pinned below) are about cloud services: see [GCP](https://github.com/didier-durand/gcp-workflows-on-github) & [AWS](https://github.com/didier-durand/aws-workflows-on-github) worflows projects. I am also keen on DevOps + Kubernetes: cloud-native is the strategic IT architecture to gain agility, reduce time-to-market and better compete in a software-driven world: check out [Microservices on K8s](https://github.com/didier-durand/microservices-on-cloud-kubernetes) and [Knative on AWS + GCP](https://github.com/didier-durand/knative-on-cloud-kubernetes). 
+- 🔭 Some personal projects (pinned below) are about cloud services: see [GCP](https://github.com/didier-durand/gcp-workflows-on-github) & [AWS](https://github.com/didier-durand/aws-workflows-on-github) worflows projects. I am also keen on DevOps + Kubernetes: cloud-native is the strategic IT architecture to gain agility, reduce time-to-market and better compete in a software-driven world: check out [Microservices on K8s](https://github.com/didier-durand/microservices-on-cloud-kubernetes) and [Knative on AWS + GCP](https://github.com/didier-durand/knative-on-cloud-kubernetes). 
 
 - 👯 I also do my best to contribute to OSS projects: see "contributions" below.
 
