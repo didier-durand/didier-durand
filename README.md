@@ -6,7 +6,7 @@
 
 - 👯 I also do my best to contribute to OSS projects: see "contributions" below.
 
-- 📫 You can reach me via [Twitter](https://twitter.com/didierdurand) or LinkedIn messaging.
+- 📫 You can reach me via [Twitter](https://twitter.com/didierdurand) or [LinkedIn](https://www.linkedin.com/in/ddurand/).
 
 <!--
 **didier-durand/didier-durand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
